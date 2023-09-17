@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1659789269 source:c:\codeblocks\ambar arum prameswari\semester 2\alstrukdat\tubes alstrukdat\main.cpp
+	"Bus-Trans.cpp"
+	"Bus-Trans.h"
+	<iostream>
+	<iomanip>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1659929410 c:\codeblocks\ambar arum prameswari\semester 2\alstrukdat\tubes alstrukdat\bus-trans.cpp
+	"Bus-Trans.h"
+	<iostream>
+	<iomanip>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1659837591 c:\codeblocks\ambar arum prameswari\semester 2\alstrukdat\tubes alstrukdat\bus-trans.h
+	<iostream>
+
