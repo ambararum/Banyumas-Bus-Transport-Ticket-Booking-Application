@@ -1,6 +1,7 @@
 # Banyumas Bus Transport – Ticket Booking Application
 A simple C++ console application for booking bus tickets and exploring information about the Trans-Banyumas public transport system.
 This application offers 4 main features:
+
 **1. Seputar Trans-Banyumas**
 
 General information about the Trans-Banyumas bus service.
