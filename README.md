@@ -19,9 +19,8 @@ Ticket booking functionality.
 Exit/Quit the application.
 
 ## Application Screenshot
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/7d1faa0c-05b3-4c83-8641-cc14fd031ace" alt=""Screenshot 2025-07-17 152825"" width="280" style="border: 1px solid #ccc; margin-right: 10px;" />
-</p>
+<img width="703" height="168" alt="Screenshot 2025-07-17 152825" src="https://github.com/user-attachments/assets/ec251aab-0f08-4eff-bdc0-1ded2b2adc30" />
+
 
 ## Built With
 - C++
